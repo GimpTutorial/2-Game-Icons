@@ -4,13 +4,39 @@ Our upcoming Udemy course will teach you all you need to know to create all 2D a
 You're welcome to download, fork or do whatever else legal with all the files!
 
 ## How To Use These Files
-You can download the latest state of this section, or go to **Commits** then download to get our project as it was at the end of any leacture.
+You can download the latest state of this section, or go to **Commits** then download to get our project as it was at the end of any lecture.
 
 ## Section 2 - Game Icons - Lecture List
 Here are the lectures of the course for this section...
 
-1_GI_GMP Section 2 Introduction
+### 1_GI_GMP Section 2 Introduction
 + Well done starting section 2
 + Going from 64 to 1024 pixels!
 + New topics: Work to spec, transparency, consistency
 + New tools: layers, gradient fill, selection
++ Be Able to work from a Spec
++ Produce in-game icons for inventory or abilities
++ Get on the App Store with an icon like Terraria
+
+### 2_GI_GMP Working To A Specification
+
+#### Getting A Tight Spec
++ Generating your own spec
++ Make consistent icons within your game
++ Understanding how some choices naturally change others
++ Really good resources
++ Google & Apple
+#### Binary Choices
++ Looks real, or is iconised
++ 3D or 2D in appearance
++ Transparency- are parts of image see through?
++ Shading- flat shading through to ‘realistic’
++ Square Edged, rounded square, circular etc.
++ Axis of Symmetry / Mirroring
+#### Breaking Your Rules
++ Rules are meant to be broken?
++ Break little things whilst keeping to the idea of the rule
++ Slipping too far from your specification will lead to inconsistency
++ Consistency is important with a collection.
+
++ Challenge
