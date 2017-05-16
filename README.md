@@ -48,3 +48,9 @@ Here are the lectures of the course for this section...
 + Layer opacity
 + Understanding the arrangement is important
 + Challenge
+
+### 4_GI_GMP Using The Eraser
++ Reverting a GIMP file
++ Brush type and hardness
++ Hard edge
++ Challenge
