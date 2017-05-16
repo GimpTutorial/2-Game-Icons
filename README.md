@@ -9,7 +9,7 @@ You can download the latest state of this section, or go to **Commits** then dow
 ## Section 2 - Game Icons - Lecture List
 Here are the lectures of the course for this section...
 
-### 1_GI_GMP Section 2 Introduction
+### 1_GI_GMP Section 2 Introduction (Done Talking Head- Joint Needed)
 + Well done starting section 2
 + Going from 64 to 1024 pixels!
 + New topics: Work to spec, transparency, consistency
