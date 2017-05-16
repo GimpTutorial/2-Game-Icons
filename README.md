@@ -40,3 +40,11 @@ Here are the lectures of the course for this section...
 + Consistency is important with a collection.
 
 + Challenge
+
+### 3_GI_GMP Introduction To Layers And Alpha
++ Layers enable a non-destructive workflow
++ Creating a new layer
++ Layer ordering
++ Layer opacity
++ Understanding the arrangement is important
++ Challenge
