@@ -18,6 +18,10 @@ Here are the lectures of the course for this section...
 + Produce in-game icons for inventory or abilities
 + Get on the App Store with an icon like Terraria
 
+### 1a_GI_GMP Drawing Straight Lines
++ How to draw a straight line in GIMP
++ Challenge
+
 ### 2_GI_GMP Working To A Specification
 
 #### Getting A Tight Spec
