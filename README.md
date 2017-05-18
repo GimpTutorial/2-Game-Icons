@@ -65,3 +65,10 @@ Here are the lectures of the course for this section...
 + Viewing and editing a palettes
 + Creating a palette of your very own
 + Challenge
+
+### 6_GI_GMP Using The Paintbrush And Airbrush
++ There are 9 brush tools
++ Pencil, Paint Brush and Airbrush are very similar
++ Quick colour picker and straight lines
++ Overview of the tool options
++ Challenge
