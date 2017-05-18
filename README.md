@@ -58,3 +58,10 @@ Here are the lectures of the course for this section...
 + Brush type and hardness
 + Hard edge
 + Challenge
+
+### 5_GI_GMP Using Pallets For Consistency
++ What is a Palette?
++ Adding palettes to our work space
++ Viewing and editing a palettes
++ Creating a palette of your very own
++ Challenge
