@@ -87,4 +87,14 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + Affected area
 + How it is used with transparency
 + Filling based on other layers
-+ Challenge 
++ Challenge
+
+### 8_GI_GMP Using The Selection Tools
++ What is selecting?
++ 7 different selection tools!
++ Focus on: Fuzzy and By Colour
++ Selection modifiers
++ Inverting selection
++ Other tool options
++ Moving your selection
++ Challenge
