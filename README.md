@@ -45,6 +45,11 @@ Here are the lectures of the course for this section...
 
 + Challenge
 
+#### Resources:
++ Google Material Design
+https://material.io/
++ Apple Human Interface Guidelines
+https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
 ### 3_GI_GMP Introduction To Layers And Alpha
 + Layers enable a non-destructive workflow
 + Creating a new layer
@@ -72,3 +77,14 @@ Here are the lectures of the course for this section...
 + Quick colour picker and straight lines
 + Overview of the tool options
 + Challenge
+
+### 7_GI_GMP Filling An Area With One Colour
++ Bucket Tool
++ Switching between FG and BG Colour
++ Pattern Fill
++ Affected area
++ Threshold
++ Affected area
++ How it is used with transparency
++ Filling based on other layers
++ Challenge 
