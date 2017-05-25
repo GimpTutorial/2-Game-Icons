@@ -98,3 +98,17 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + Other tool options
 + Moving your selection
 + Challenge
+
+### 9_GI_GMP Shading With Gradients
++ Blend Tool (Gradient Fill)
++ Presets and the gradient tab
++ Shape
++ Repeating
++ Offset
++ Dithering and adaptive supersampling
++ Making your own gradient
++ Challenge
+
+### 10_GI_GMP Modifying Your Selections
++ Rectangle select and ellipse select
++ Shrink, Grow and Border
