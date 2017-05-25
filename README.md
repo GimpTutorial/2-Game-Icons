@@ -112,3 +112,13 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 ### 10_GI_GMP Modifying Your Selections
 + Rectangle select and ellipse select
 + Shrink, Grow and Border
+
+### 11_GI_GMP Using Selection Modifiers
+#### Challenge
++ Create 4 new 32x32 images
++ Use the selection modifiers in each one
++ In one of your images use shrink selection
++ In another use grow selection
++ For the 3rd image use border selection
++ The final image use whatever you like
++ Share at 64x64!
