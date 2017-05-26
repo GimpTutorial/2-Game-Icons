@@ -114,6 +114,13 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + Linking Layers
 + Layer Transforms
 
+### 9b_GI_GMP Rearranging an Image
+#### Challenge
++ Use the skills you have just learn to create a new game icon
++ Consider moving your layers to re-compose an image
++ Link layers when necessary
++ Share with us your new game icon
+
 ### 10_GI_GMP Modifying Your Selections
 + Rectangle select and ellipse select
 + Shrink, Grow and Border
