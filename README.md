@@ -109,6 +109,11 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + Making your own gradient
 + Challenge
 
+### 9a_GI_GMP Moving Images And Layers
++ Moving Layers
++ Linking Layers
++ Layer Transforms
+
 ### 10_GI_GMP Modifying Your Selections
 + Rectangle select and ellipse select
 + Shrink, Grow and Border
