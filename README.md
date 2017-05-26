@@ -134,3 +134,11 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + For the 3rd image use border selection
 + The final image use whatever you like
 + Share at 64x64!
+
+## New naming structure "a" being lecture "b" being the associated challenge.
+
+### 12a_GI_GMP Combining Multiple Images
+
++ Dragging and dropping one image to another
++ Opening other images as layers
++ Layers can be different sizes than the canvas
