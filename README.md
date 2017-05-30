@@ -6,7 +6,7 @@ You're welcome to download, fork or do whatever else legal with all the files!
 ## How To Use These Files
 You can download the latest state of this section, or go to **Commits** then download to get our project as it was at the end of any lecture.
 
-## Section 2 - Game Icons - Lecture List
+## Section 2 - Game Icons - Lecture List GI_GMP
 Here are the lectures of the course for this section...
 
 ### 1_GI_GMP Section 2 Introduction (Done Talking Head- Joint Needed)
@@ -18,11 +18,11 @@ Here are the lectures of the course for this section...
 + Produce in-game icons for inventory or abilities
 + Get on the App Store with an icon like Terraria
 
-### 1a_GI_GMP Drawing Straight Lines
+### 1 Drawing Straight Lines
 + How to draw a straight line in GIMP
 + Challenge
 
-### 2_GI_GMP Working To A Specification
+### 2 Working To A Specification
 
 #### Getting A Tight Spec
 + Generating your own spec
@@ -50,7 +50,8 @@ Here are the lectures of the course for this section...
 https://material.io/
 + Apple Human Interface Guidelines
 https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
-### 3_GI_GMP Introduction To Layers And Alpha
+
+### 3 Introduction To Layers And Alpha
 + Layers enable a non-destructive workflow
 + Creating a new layer
 + Layer ordering
@@ -58,27 +59,27 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + Understanding the arrangement is important
 + Challenge
 
-### 4_GI_GMP Using The Eraser
+### 4 Using The Eraser
 + Reverting a GIMP file
 + Brush type and hardness
 + Hard edge
 + Challenge
 
-### 5_GI_GMP Using Pallets For Consistency
+### 5 Using Pallets For Consistency
 + What is a Palette?
 + Adding palettes to our work space
 + Viewing and editing a palettes
 + Creating a palette of your very own
 + Challenge
 
-### 6_GI_GMP Using The Paintbrush And Airbrush
+### 6 Using The Paintbrush And Airbrush
 + There are 9 brush tools
 + Pencil, Paint Brush and Airbrush are very similar
 + Quick colour picker and straight lines
 + Overview of the tool options
 + Challenge
 
-### 7_GI_GMP Filling An Area With One Colour
+### 7 Filling An Area With One Colour
 + Bucket Tool
 + Switching between FG and BG Colour
 + Pattern Fill
@@ -89,7 +90,7 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + Filling based on other layers
 + Challenge
 
-### 8_GI_GMP Using The Selection Tools
+### 8 Using The Selection Tools
 + What is selecting?
 + 7 different selection tools!
 + Focus on: Fuzzy and By Colour
@@ -99,7 +100,7 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + Moving your selection
 + Challenge
 
-### 9_GI_GMP Shading With Gradients
+### 9 Shading With Gradients
 + Blend Tool (Gradient Fill)
 + Presets and the gradient tab
 + Shape
@@ -109,24 +110,22 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + Making your own gradient
 + Challenge
 
-### 9a_GI_GMP Moving Images And Layers
+### 9a Moving Images And Layers
 + Moving Layers
 + Linking Layers
 + Layer Transforms
 
-### 9b_GI_GMP Rearranging an Image
-#### Challenge
+### 9b Rearranging an Image
 + Use the skills you have just learn to create a new game icon
 + Consider moving your layers to re-compose an image
 + Link layers when necessary
 + Share with us your new game icon
 
-### 10_GI_GMP Modifying Your Selections
+### 10 Modifying Your Selections
 + Rectangle select and ellipse select
 + Shrink, Grow and Border
 
-### 11_GI_GMP Using Selection Modifiers
-#### Challenge
+### 11 Using Selection Modifiers
 + Create 4 new 32x32 images
 + Use the selection modifiers in each one
 + In one of your images use shrink selection
@@ -135,10 +134,12 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + The final image use whatever you like
 + Share at 64x64!
 
-## New naming structure "a" being lecture "b" being the associated challenge.
-
-### 12a_GI_GMP Combining Multiple Images
+### 12a Combining Multiple Images
 
 + Dragging and dropping one image to another
 + Opening other images as layers
 + Layers can be different sizes than the canvas
+
+### 12b Making A Composite Image
++ Bring together 2 Or more images into one new image
++ Share your work with us!
