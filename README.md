@@ -149,3 +149,8 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 ### 12b Making A Composite Image
 + Bring together 2 Or more images into one new image
 + Share your work with us!
+
+### 13a_GI Moving Selections
++ Sections can be used like stencils
++ Similar to moving layers
++ Growing and shinking selections
