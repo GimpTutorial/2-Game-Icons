@@ -79,6 +79,12 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + Overview of the tool options
 + Challenge
 
+### 6a Quickly Selecting An Existing Colour
++ Introducing the Color Picker Tool
++ Only active layer vs sample merged
++ Selection methods
++ Using CTRL with other brush tools has persistent settings
+
 ### 7 Filling An Area With One Colour
 + Bucket Tool
 + Switching between FG and BG Colour
