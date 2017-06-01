@@ -155,9 +155,18 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + Similar to moving layers
 + Growing and shinking selections
 
-### 13b Drop Shadows and Reflections
+### 13b Drop Shadows And Reflections
 + Make a drop shadow for one of your icons
 + Make a silhouette of one of your icons
 + Try making a reflection
 + Think of other uses for your selections
 + Share your work!
+
+### 14a Floating Selections
++ Cause of frustration in GIMP
++ Why float a selection- Often another layer is used.
++ See a floating select as a "temporary layer"
++ Floating a selection manually
++ Some actions create floating selections automatically
++ You cannot perform actions on other layers whilst a layer is floating
++ Anchoring the floating selection.
