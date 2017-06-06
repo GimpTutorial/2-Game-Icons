@@ -18,7 +18,7 @@ Here are the lectures of the course for this section...
 + Produce in-game icons for inventory or abilities
 + Get on the App Store with an icon like Terraria
 
-### 1 Drawing Straight Lines
+### 1a Drawing Straight Lines
 + How to draw a straight line in GIMP
 + Challenge
 
@@ -170,3 +170,12 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + Some actions create floating selections automatically
 + You cannot perform actions on other layers whilst a layer is floating
 + Anchoring the floating selection.
+
+### 15 Keeping Yourself Organised
++ This is an ideology that doesn't have a right answer
++ Naming will depend on Project, Team and many other factors
++ Naming Layers as you create them
++ Keeping your folders tidy
++ Be open and expecting of change as you progress
++ When working in a group accept that naming and filing will often be group focused rather than personal
++ Embrace deleting old and out of date work
