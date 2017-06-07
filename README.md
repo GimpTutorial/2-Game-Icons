@@ -180,6 +180,14 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + When working in a group accept that naming and filing will often be group focused rather than personal
 + Embrace deleting old and out of date work
 
+### 16 Creating A Game HUD
++ Open up the Bottom HUD from your resources
++ Pick your chosen from the ability inspiration table
++ Assemble your HUD and share!
++ Optional: Edit Ours or Make your own HUD
++ Optional: Invent your Own abilities
+
+
 ### 99 Section Wrap Up
 + Well done!
 + Got to grips with many of the basic brush tools
