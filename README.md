@@ -179,3 +179,9 @@ https://developer.apple.com/ios/human-interface-guidelines/overview/design-princ
 + Be open and expecting of change as you progress
 + When working in a group accept that naming and filing will often be group focused rather than personal
 + Embrace deleting old and out of date work
+
+### 99 Section Wrap Up
++ Well done!
++ Got to grips with many of the basic brush tools
++ You have mastered the basics of Pixel Art
++ Challenges: larger composite images, improve your emoticons, offer to help community.
